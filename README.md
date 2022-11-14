@@ -9,4 +9,4 @@ DistCL helps practitioners in the following steps:
 3. Embed this constraint within a Mixed-Integer Stochastic Optimization problem and generate scenarios in a linear way.
 
 
-See the paper XXX for more information about the developed methodology and the case study for a real-world example.
+See the paper XXX for more information about the developed methodology and the case study for a real-world example. If you use this software, please cite XXX.
