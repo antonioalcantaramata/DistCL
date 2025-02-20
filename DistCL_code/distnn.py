@@ -67,7 +67,7 @@ class qdnn(object):
         print(model)
         print(device)
         
-        best_loss = 10000
+        best_loss = float("inf")
         for epoch in range(self.iters):
             ###### Training ######
             model = model.train()
